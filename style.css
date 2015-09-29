@@ -1,0 +1,30 @@
+.register{
+	display: inline-block;
+	width: 400px;
+}
+
+.login{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.user_trips td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	outline: 1px solid black;
+}
+
+.user_trips table{
+	padding-left: 40px;
+}
+
+.others_plans td{
+	outline: 1px solid black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.others_plans table{
+	padding-left: 40px;
+}
